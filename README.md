@@ -3,13 +3,13 @@
 An event management system is a digital tool that streamlines the planning, organization, and execution of events. It encompasses a range of features.
 
 ## Features for organizers:
-* view available events on the home page
-* event registration
+* View available events on the home page
+* Event registration
 * CRUD event operations basic analytics for your events
 
 ## Features for participants
-* view available events on the home page
-* event registration
+* View available events on the home page
+* Event registration
 * View your tickets and delete them if you want.
 
 
@@ -26,9 +26,9 @@ An event management system is a digital tool that streamlines the planning, orga
 
 # Setup:
 
-* Step 1: Go to src/backend and run the command 'pipenv shell' to start your virtual environment.
-* Step 2: In the same folder run 'python manage.py runserver' to start the django server.
-* Step 3: Go to src/frontend and run the command 'npm run dev' to start the frontend vue.js server
+* Step 1: Open a new terminal. In the root folder run the command 'pipenv shell' to start your python virtual environment.
+* Step 2: Go to src/backend and run the command 'python manage.py runserver' to start the django server.
+* Step 3: Open another terminal and go to src/frontend and run the command 'npm run dev' to start the frontend vue.js server
 * Step 4: Open you browser and go to the address 'http://localhost:5173/'
 
 
