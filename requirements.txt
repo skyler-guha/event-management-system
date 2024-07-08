@@ -1,0 +1,14 @@
+Software Required: 
+
+* Python 
+* Node package manager (npm)
+
+Python Packages Required:
+* django
+* djangorestframework
+* django-cors-headers
+
+NPM Packages required:
+* vue-router@4
+* pinia @pinia/nuxt
+* @vuepic/vue-datepicker
