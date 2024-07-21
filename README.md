@@ -18,7 +18,7 @@ An event management system is a digital tool that streamlines the planning, orga
 * landing: Landing page for website
 * login: login page
 * register: to register an new user
-* home: For showing list of all events, and a button to the management page [Almost Done]
+* home: For showing list of all events, and a button to the management page
 * event-preview: preview an event and book tickets
 * event-management: For functions relating to the event management page
 * event-scheduling: For scheduling new events
@@ -26,10 +26,12 @@ An event management system is a digital tool that streamlines the planning, orga
 
 # Setup:
 
-* Step 1: Open a new terminal. In the root folder run the command 'pipenv shell' to start your python virtual environment.
-* Step 2: Go to src/backend and run the command 'python manage.py runserver' to start the django server.
-* Step 3: Open another terminal and go to src/frontend and run the command 'npm run dev' to start the frontend vue.js server
-* Step 4: Open you browser and go to the address 'http://localhost:5173/'
+* Step 1: Open a new terminal in the root folder and then go to 'src/backend' . 
+* Step 2: Run the command 'pipenv shell' to start your python virtual environment. Then install the requirements using the commands 'pipenv install django', 'pipenv install djangorestframework' , and 'pipenv install django-cors-headers'
+* Step 3: Run the command 'python manage.py runserver' to start the django server.
+* Step 4: Open another terminal and go to src/frontend and run the command 'npm install' to install the required dependencies. 
+* Step 5: Run the command 'npm run dev' to start the frontend vue.js server.
+* Step 6: Open you browser and go to the address 'http://localhost:5173/'
 
 
 # Testing Credentials:
