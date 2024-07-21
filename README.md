@@ -2,6 +2,8 @@
 
 An event management system is a digital tool that streamlines the planning, organization, and execution of events. It encompasses a range of features.
 
+<img src="demo.gif" width="70%"/>
+
 ## Features for organizers:
 * View available events on the home page
 * Event registration
